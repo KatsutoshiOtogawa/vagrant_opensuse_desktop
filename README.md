@@ -23,4 +23,5 @@ After installed, execute below command.
 $ vagrant rdp
 ```
 
-you launching Windows Remote Desktop client,you will access fedora via Remote Desktop!
+You launching Windows Remote Desktop client,and you type [password is vagrant user].
+You will access fedora via Remote Desktop!
