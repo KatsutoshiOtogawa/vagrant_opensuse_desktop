@@ -10,7 +10,7 @@ You install Windows Remote Desktop Client in advance.
 You execute below commands.
 
 ```
-$ git clone https://github.com/KatsutoshiOtogawa/vagrant_fedora_desktop.git
+$ git clone https://github.com/KatsutoshiOtogawa/vagrant_opensuse_desktop.git
 $ cd vagrant_opensuse_desktop
 $ vagrant up
 ```
@@ -24,4 +24,4 @@ $ vagrant rdp
 ```
 
 You launching Windows Remote Desktop client,and you type [password is vagrant user].
-You will access fedora via Remote Desktop!
+You will access opensuse via Remote Desktop!
